@@ -3,3 +3,4 @@
 yruscat278-hue - Акашев Ярослав 2ИП16-25 - Lead Developer,
 Turborik - Гулевский Владислав 2ИП16-25 - DevOps, 
 zas-mat - Заславский Матвей 2ИП16-25 - Product Owner.
+Сквабзаза
